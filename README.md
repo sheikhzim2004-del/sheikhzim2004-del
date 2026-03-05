@@ -1,6 +1,6 @@
 ### Hi there 👋, This is James
 #### 💻 Frontend Developer | JavaScript Learner | Passionate About Web Development
-![💻 Frontend Developer | JavaScript Learner | Passionate About Web Development](https://media.licdn.com/dms/image/v2/D5616AQH6emjd91CjSg/profile-displaybackgroundimage-shrink_200_800/B56Zv0kZtnKwAU-/0/1769334743705?e=1773878400&v=beta&t=rXcno4g_sglD-lpS7btbjhZOzQyzQI_yjioTgp2Xa4E)
+![💻 Frontend Developer | JavaScript Learner | Passionate About Web Development][https://media.licdn.com/dms/image/v2/D5616AQH6emjd91CjSg/profile-displaybackgroundimage-shrink_200_800/B56Zv0kZtnKwAU-/0/1769334743705?e=1773878400&v=beta&t=rXcno4g_sglD-lpS7btbjhZOzQyzQI_yjioTgp2Xa4E](https://media.licdn.com/dms/image/v2/D5616AQGPW8UMk1BdrA/profile-displaybackgroundimage-shrink_200_800/B56Zyz69yEIoAY-/0/1772545106452?e=1774483200&v=beta&t=VG3u7zV0fIHvkDCxajQY840PKa-SaIYEtUua1hDsX1g)
 
 I'm a Frontend Developer & JavaScript Enthusiast from Bangladesh. I love experimenting with code, cooking, and sharing knowledge.
 
