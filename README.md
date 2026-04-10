@@ -1,7 +1,8 @@
 ### Hi there 👋, This is James
 #### 💻 Frontend Developer | JavaScript Learner | Passionate About Web Development
 
-![Frontend Developer | JavaScript Learner | Passionate About Web Development](https://media.licdn.com/dms/image/v2/D5616AQGPW8UMk1BdrA/profile-displaybackgroundimage-shrink_200_800/B56Zyz69yEIoAY-/0/1772545106452?e=1774483200&v=beta&t=VG3u7zV0fIHvkDCxajQY840PKa-SaIYEtUua1hDsX1g)
+<img width="1536" height="1024" alt="Sheikh Zim at the code desk" src="https://github.com/user-attachments/assets/1dc887f1-fdd6-4eb7-b5d4-ddaec45cbdbc" />
+
 
 I'm a Frontend Developer & JavaScript Enthusiast from Bangladesh. I love experimenting with code, cooking, and sharing knowledge.
 
